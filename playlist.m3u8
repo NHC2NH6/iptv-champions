@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band",Band
 http://192.168.1.172/0.ts
 
-#EXTINF:-1 tvg-id="BANDSPORT" tvg-name="Band Sport HD",BandSport HD
+#EXTINF:-1 tvg-id="BANDSPORT" tvg-name="Band Sport HD",BANDSP
 http://192.168.1.178/0.ts
 
-#EXTINF:-1 tvg-id="TVANHAGUERA" tvg-name="TV Anhanguera HD",TV Anhanguera HD
+#EXTINF:-1 tvg-id="TVANHAGUERA" tvg-name="TV Anhanguera HD",TVANHHD
 http://192.168.1.170/0.ts
 
-#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="Premiere Clubes HD",Premiere Clubes HD
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="Premiere Clubes HD",PFCLHD
 http://192.168.1.174/0.ts
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN",ESPNHB
 http://192.168.1.176/0.ts
