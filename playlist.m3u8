@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band",Band
+http://192.168.1.172/0.ts
+
+#EXTINF:-1 tvg-id="BANDSPORT" tvg-name="Band Sport HD",BandSport HD
+http://192.168.1.178/0.ts
+
+#EXTINF:-1 tvg-id="TVANHAGUERA" tvg-name="TV Anhanguera HD",TV Anhanguera HD
+http://192.168.1.170/0.ts
+
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="Premiere Clubes HD",Premiere Clubes HD
+http://192.168.1.174/0.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN",ESPN
+http://192.168.1.176/0.ts
